@@ -12,6 +12,7 @@ const sidebars: SidebarsConfig = {
     {type: 'doc', id: 'panel/super-admin', label: '🛡 Super Admin'},
     {type: 'doc', id: 'panel/theming', label: '🎨 Theming & Branding'},
     {type: 'doc', id: 'panel/updating', label: '🔄 Updating'},
+    {type: 'doc', id: 'panel/git-clone', label: '🔀 Git Clone'},
   ],
   wingsSidebar: [
     {type: 'doc', id: 'wings/introduction', label: '🔧 Introduction'},
